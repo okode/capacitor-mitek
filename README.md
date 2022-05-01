@@ -5,7 +5,7 @@ Mitek Capacitor Plugin
 ## Install
 
 ```bash
-npm install capacitor-mitek
+npm install okode/capacitor-mitek
 npx cap sync
 ```
 
