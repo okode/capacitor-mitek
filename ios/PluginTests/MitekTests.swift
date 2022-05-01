@@ -1,3 +1,7 @@
+import MiSnapUX
+import MiSnap
+import MiSnapLicenseManager
+
 import XCTest
 @testable import Plugin
 
