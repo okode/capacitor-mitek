@@ -9,7 +9,7 @@ import com.getcapacitor.annotation.CapacitorPlugin;
 @CapacitorPlugin(name = "Mitek")
 public class MitekPlugin extends Plugin {
 
-    private Mitek implementation = new Mitek();
+    private final Mitek implementation = new Mitek();
 
     @PluginMethod
     public void echo(PluginCall call) {
